@@ -1,0 +1,19 @@
+{
+  "name": "api-moviedb",
+  "version": "1.0.0",
+  "description": "API Rest",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruedalibre/api-moviedb.git"
+  },
+  "author": "@ruedalibre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruedalibre/api-moviedb/issues"
+  },
+  "homepage": "https://github.com/ruedalibre/api-moviedb#readme"
+}
